@@ -1,0 +1,14 @@
+
+git init [initialize git in cwd]
+
+git status [list all untracked files]
+
+git add -A [adding all changes to staging area]
+
+git commit -m "commit message"
+
+git push [localrepo => remote repo]
+
+git clone [remote repo(exact copy) => localworkspace]
+
+git pull [remote repo(changes) => local workspace]
